@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Siber Watch",
-    "currentPage": "page2.html",
+    "name": "Siber Watch | Siberwatch.com",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -56,7 +56,7 @@
         "url": "https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 114,
+    "uniqCompNum": 115,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -68,13 +68,14 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-mailform": false,
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Siber | Siberwatch.com",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -814,7 +815,7 @@
     "page1.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Siber S1",
+        "title": "Siber S1 | Siber | Siberwatch.com",
         "order": 1
       },
       "components": [
@@ -2161,7 +2162,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Siber G3",
+        "title": "Siber G3 | Siber | Siberwatch.com",
         "order": 2
       },
       "components": [
@@ -3309,7 +3310,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Siber C2",
+        "title": "Siber C2 | Siber | Siberwatch.com",
         "order": 3
       },
       "components": [
@@ -4487,7 +4488,7 @@
     "page4.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Siber Pro",
+        "title": "Siber Pro | Siber | Siberwatch.com",
         "order": 4
       },
       "components": [
@@ -5896,7 +5897,7 @@
     "page5.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
-        "title": "Siber Max",
+        "title": "Siber Max | Siber | Siberwatch.com",
         "order": 5
       },
       "components": [
