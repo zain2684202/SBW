@@ -2104,7 +2104,7 @@ section.lazy-placeholder:after {
   margin-bottom: 0;
 }
 .cid-sGNS9P1MpX .card-wrapper {
-  border-top: 1px solid #efefef;
+  border-top: 1px solid #000000;
   background-color: #ffffff;
   position: relative;
   justify-content: unset;
@@ -4671,7 +4671,7 @@ section.lazy-placeholder:after {
   margin-bottom: 0;
 }
 .cid-sGPrXnjU43 .card-wrapper {
-  border-top: 1px solid #efefef;
+  border-top: 1px solid #000000;
   background-color: #ffffff;
   position: relative;
   justify-content: unset;
@@ -4702,10 +4702,10 @@ section.lazy-placeholder:after {
 }
 .cid-sGPrXnjU43 P {
   color: #232323;
-  text-align: center;
+  text-align: left;
 }
 .cid-sGPrXnjU43 .card-title {
-  text-align: center;
+  text-align: left;
 }
 .cid-sGPsisYyqQ {
   padding-top: 90px;
@@ -5538,7 +5538,7 @@ section.lazy-placeholder:after {
   margin-bottom: 0;
 }
 .cid-sGPurFQj95 .card-wrapper {
-  border-top: 1px solid #efefef;
+  border-top: 1px solid #000000;
   background-color: #ffffff;
   position: relative;
   justify-content: unset;
