@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Siber Watch | Siberwatch.com",
-    "currentPage": "index.html",
+    "currentPage": "sibermax.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -812,7 +812,7 @@
         }
       ]
     },
-    "page1.html": {
+    "sibers1.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Siber S1 | Siber | Siberwatch.com",
@@ -2159,7 +2159,7 @@
         }
       ]
     },
-    "page2.html": {
+    "siberg3.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Siber G3 | Siber | Siberwatch.com",
@@ -3307,7 +3307,7 @@
         }
       ]
     },
-    "page3.html": {
+    "siberc2.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Siber C2 | Siber | Siberwatch.com",
@@ -4485,7 +4485,7 @@
         }
       ]
     },
-    "page4.html": {
+    "siberpro.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Siber Pro | Siber | Siberwatch.com",
@@ -5894,7 +5894,7 @@
         }
       ]
     },
-    "page5.html": {
+    "sibermax.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Siber Max | Siber | Siberwatch.com",
