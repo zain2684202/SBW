@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Siber Watch | Siberwatch.com",
-    "currentPage": "siberpro.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -69,7 +69,8 @@
     "gdpr": false,
     "witsec-mailform": false,
     "witsec-white-label": true,
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-KWN71LWGN0\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-KWN71LWGN0');\n</script>"
   },
   "pages": {
     "index.html": {
